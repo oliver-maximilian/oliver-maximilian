@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working and studying at e.on IT Services in a DevOps team, where I keep systems like GitLab, Sonar, and Artifactory running smoothly.<br>🌱 I’m currently learning more about network security and infrastructure as code.<br>💬 Ask me about self-hosting, virtualization, or anything related to home IT labs—I'm always happy to share insights from my own homelab experiments.<br>⚡ Fun fact: I love experimenting with new open-source tools and automating as much as possible in my home network.<br>🚒 Besides IT, I’m also a volunteering firefighter.
+🛠️ I’m currently studying Business Computing while working in a DevOps team, where I ensure that systems such as GitLab, Sonar and Artifactory are running smoothly.<br>🌱 I’m currently learning more about network security and infrastructure as code.<br>💬 Ask me about self-hosting, virtualization, or anything related to home IT labs—I'm always happy to share insights from my own homelab experiments.<br>⚡ Fun fact: I love experimenting with new open-source tools and automating as much as possible in my home network.<br>🚒 Besides IT, I’m also a volunteering firefighter.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HPqWKDuM7V) 
