@@ -1,6 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently studying Business Computing while working in a DevOps team.
-🌱 I’m currently learning more about network security.
+🛠️ I’m currently studying Business Computing while working in a DevOps team. <br> 🌱 I’m currently learning more about network security.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HPqWKDuM7V) 
