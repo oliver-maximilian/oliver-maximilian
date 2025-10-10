@@ -1,5 +1,6 @@
 # 💫 About Me:
-🛠️ I’m currently studying Business Computing while working in a DevOps team, where I ensure that systems such as GitLab, Sonar and Artifactory are running smoothly.<br>🌱 I’m currently learning more about network security and infrastructure as code.<br>💬 Ask me about self-hosting, virtualization, or anything related to home IT labs, I'm always happy to share insights from my own homelab experiments. <br>🚒 Besides IT, I’m also a volunteering firefighter.
+🛠️ I’m currently studying Business Computing while working in a DevOps team.
+🌱 I’m currently learning more about network security.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HPqWKDuM7V) 
