@@ -43,13 +43,12 @@ location: Germany 🇩🇪
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **Frameworks**
 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-%234794EB.svg?style=flat-square&logo=quarkus&logoColor=white)
 
 </td>
@@ -62,7 +61,6 @@ location: Germany 🇩🇪
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
 
 </td>
 <td valign="top" width="33%">
@@ -70,10 +68,11 @@ location: Germany 🇩🇪
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
 **Homelab**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat-square&logo=proxmox&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/Pi--Hole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white)
