@@ -1,26 +1,62 @@
-# Hi, I'm Oliver 👋
+<div align="center">
 
-I'm a Business Computing student working in a DevOps team.
-Currently deepening my knowledge in **network security**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=header" width="100%"/>
+
+# Hey, I'm Oliver 👨‍💻
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Business+Computing+Student;DevOps+Engineer+in+the+making;Network+Security+Enthusiast;Homelab+Tinkerer" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HPqWKDuM7V)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=oliver-maximilian&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## About Me
+
+```yaml
+name:     Oliver
+role:     DevOps · Network Security · Homelab
+status:   Studying Business Computing
+focus:    Cloud Infrastructure & Security
+location: Germany 🇩🇪
+```
+
+- Currently deepening my knowledge in **network security**
+- Working in a **DevOps team** — pipelines, containers, cloud
+- Running a **homelab** at home (Raspberry Pi, Home Assistant, Pi-Hole)
+- Always experimenting with new infrastructure setups
 
 ---
 
 ## Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 **Languages**
+
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-**Frameworks & Runtimes**
+**Frameworks**
+
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-%234794EB.svg?style=flat-square&logo=quarkus&logoColor=white)
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-**DevOps & Infrastructure**
+**DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
@@ -28,21 +64,58 @@ Currently deepening my knowledge in **network security**.
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
 
-**Homelab & Tools**
+</td>
+<td valign="top" width="33%">
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+
+**Homelab**
+
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/Pi--Hole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=oliver-maximilian&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=oliver-maximilian&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-maximilian&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=oliver-maximilian&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-maximilian&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=oliver-maximilian&theme=github-dark-blue&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
-## Contact
+## Activity
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/HPqWKDuM7V)
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oliver-maximilian&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=oliver-maximilian&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=80&section=footer" width="100%"/>
+</div>
