@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header" width="100%"/>
 
 # Hey, I'm Oliver 👨‍💻
 
@@ -88,11 +88,7 @@ location: Germany 🇩🇪
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=oliver-maximilian&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-maximilian&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=oliver-maximilian&theme=github-dark-blue&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=oliver-maximilian&theme=github-dark-blue&hide_border=true" height="165"/>
 
 </div>
 
@@ -117,5 +113,5 @@ location: Germany 🇩🇪
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
