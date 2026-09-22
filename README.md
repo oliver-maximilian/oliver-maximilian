@@ -21,61 +21,61 @@
 ## About Me
 
 ```yaml
-name:     Oliver
-role:     DevOps · Network Security · Homelab
-status:   Studying Business Computing
-focus:    Cloud Infrastructure & Security
-location: Germany 🇩🇪
+name:     	Oliver
+role:     	DevOps · Network Security · Homelab
+status:  	  tudying Business Computing
+focus:    	Cloud Infrastructure & Security
+location: 	Germany 🇩🇪
 ```
 
-- Currently deepening my knowledge in **network security**
-- Working in a **DevOps team** — pipelines, containers, cloud
-- Running a **homelab** at home (Raspberry Pi, Home Assistant, Pi-Hole)
-- Always experimenting with new infrastructure setups
+- Deepening my HomeLab with Grafana & SIEM
+- Work on a DevOps team (pipelines, containers, cloud)
+- Run a homelab (Raspberry Pi, Home Assistant, Pi-Hole)
+- Keep experimenting with new infrastructure setups
 
 ---
 
-## Tech Stack
+Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**Languages**
+Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+Python (https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+Java (https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+Shell (https://img.shields.io/badge/Shell-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Frameworks**
+Frameworks
 
-![Quarkus](https://img.shields.io/badge/Quarkus-%234794EB.svg?style=flat-square&logo=quarkus&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+Quarkus (https://img.shields.io/badge/Quarkus-%234794EB.svg?style=flat-square&logo=quarkus&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-**Databases**
+DevOps & Cloud
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+Docker (https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+Kubernetes (https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+Terraform (https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+Azure (https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+GitLab CI (https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 
-**Homelab**
+</td>
+<td valign="top" width="33%">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat-square&logo=proxmox&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white)
-![Pi-Hole](https://img.shields.io/badge/Pi--Hole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white)
+Databases
+
+PostgreSQL (https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+Homelab
+
+Linux (https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+Proxmox (https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat-square&logo=proxmox&logoColor=white)
+Raspberry Pi (https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+Home Assistant (https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white)
+Pi-Hole (https://img.shields.io/badge/Pi--Hole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white)
 
 </td>
 </tr>
@@ -83,31 +83,11 @@ location: Germany 🇩🇪
 
 ---
 
-## GitHub Stats
+GitHub Stats
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=oliver-maximilian&theme=github-dark-blue&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oliver-maximilian&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=oliver-maximilian&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
