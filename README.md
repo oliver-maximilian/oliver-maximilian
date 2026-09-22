@@ -21,11 +21,11 @@
 ## About Me
 
 ```yaml
-name:     	Oliver
-role:     	DevOps · Network Security · Homelab
-status:  	  tudying Business Computing
-focus:    	Cloud Infrastructure & Security
-location: 	Germany 🇩🇪
+name:      Oliver
+role:      DevOps · Network Security · Homelab
+status:    Studying Business Computing
+focus:     Cloud Infrastructure & Security
+location:  Germany 🇩🇪
 ```
 
 - Deepening my HomeLab with Grafana & SIEM
