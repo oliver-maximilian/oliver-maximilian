@@ -35,62 +35,43 @@ location:  Germany 🇩🇪
 
 ---
 
-Tech Stack
+## Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-Languages
+<strong>Languages</strong><br/><br/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Shell-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
 
-Python (https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-Java (https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-Shell (https://img.shields.io/badge/Shell-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-
-Frameworks
-
-Quarkus (https://img.shields.io/badge/Quarkus-%234794EB.svg?style=flat-square&logo=quarkus&logoColor=white)
+<br/><br/><strong>Frameworks</strong><br/><br/>
+<img src="https://img.shields.io/badge/Quarkus-%234794EB.svg?style=flat-square&logo=quarkus&logoColor=white" alt="Quarkus" />
 
 </td>
 <td valign="top" width="33%">
 
-DevOps & Cloud
-
-Docker (https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-Kubernetes (https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-Terraform (https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-Azure (https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-GitLab CI (https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+<strong>DevOps &amp; Cloud</strong><br/><br/>
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
 
 </td>
 <td valign="top" width="33%">
 
-Databases
+<strong>Databases</strong><br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
-PostgreSQL (https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-
-Homelab
-
-Linux (https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-Proxmox (https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat-square&logo=proxmox&logoColor=white)
-Raspberry Pi (https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-Home Assistant (https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white)
-Pi-Hole (https://img.shields.io/badge/Pi--Hole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white)
+<br/><br/><strong>Homelab</strong><br/><br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white" alt="Home Assistant" />
+<img src="https://img.shields.io/badge/Pi--Hole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white" alt="Pi-Hole" />
 
 </td>
 </tr>
 </table>
-
----
-
-GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=oliver-maximilian&theme=github-dark-blue&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
-</div>
